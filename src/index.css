@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.fontfamily_hind{
+  font-family: 'Hind Vadodara', sans-serif;
+}
+.fontfamily_work_sans{
+  font-family: 'Work Sans', sans-serif;
+}
+.fontfamily_poppins {
+  font-family: "Poppins", sans-serif;
+}
+.fontfamily_inter{
+  font-family: 'Inter', sans-serif;
+}
+.fontfamily_playfair{
+  font-family: 'Playfair Display', serif;
+}
+.fw_400 {
+  font-weight: 400;
+}
+.fw_300 {
+  font-weight: 300;
+}
+.fw_500 {
+  font-weight: 500;
+}
+.fw_600 {
+  font-weight: 600;
+}
+.fw_700 {
+  font-weight: 700;
+}
+.fw_800 {
+  font-weight: 800;
+}
+
+.fs_12 {
+  font-size: 12px;
+}
+.fs_13 {
+  font-size: 13px;
+}
+.fs_14 {
+  font-size: 14px;
+}
+.fs_15 {
+  font-size: 15px;
+}
+.fs_54 {
+  font-size: 54px;
+}
+.fs_18 {
+  font-size: 18px;
+}
+.fs_42 {
+  font-size: 42px;
+}
+.fs_20 {
+  font-size: 20px;
+}
+.fs_24 {
+  font-size: 24px;
+}
+.fs_32 {
+  font-size: 32px;
+}
+.fs_35 {
+  font-size: 35px;
+}
+.fs_55 {
+  font-size: 55px;
+}
+.fs_43 {
+  font-size: 43px;
+}
+.fs_45 {
+  font-size: 45px;
+}
+.fs_70{
+  font-size: 70px;
+}
+.fs_65{
+  font-size: 65px;
+}
+.fs_60{
+  font-size: 60px;
+}
+.fs_85{
+  font-size: 85px;
+}
+.fs_30{
+  font-size: 30px;
+}
+.fs_50{
+  font-size: 50px;
+}
+.fs_25{
+  font-size: 25px;
+}
+

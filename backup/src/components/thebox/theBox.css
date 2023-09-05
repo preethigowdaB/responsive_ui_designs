@@ -1,0 +1,270 @@
+.color_black {
+  color: #14171f;
+}
+.color_orange {
+  color: #f9995d;
+}
+.bg_color_orange {
+  background-color: #f9995d;
+}
+.color_blue {
+  color: #2947a9;
+}
+.color_red {
+  color: #ed6565;
+}
+.bg_color_blue {
+  background-color: #2947a9;
+}
+.color_darkblue {
+  background-color: #3559c7;
+}
+.color_neutral {
+  color: #525b7a;
+}
+.color_netural_500 {
+  color: #667299;
+}
+.color_netural_200 {
+  color: #c2c7d6;
+}
+.color_netural_300 {
+  color: #a3aac2;
+}
+.color_netural_800 {
+  color: #292e3d;
+}
+.color_red {
+  color: red;
+}
+.bg_color_netural_800 {
+  background-color: #292e3d;
+}
+.bg_color_neutral {
+  background-color: #f6f8f7;
+}
+.text_italic {
+  font-style: italic;
+}
+.border {
+  border-radius: 5px;
+  border: none;
+}
+.bg_width_color {
+  min-height: 80vh;
+}
+.fs_16 {
+  font-size: 16px;
+}
+.border_color {
+  border: 1px solid #e0e3eb;
+  background: #ffffff;
+  border-radius: 4px;
+}
+.btn_center {
+  margin-left: 200px;
+}
+.box_shadow {
+  box-shadow: 0px 0px 37px -2px rgba(17, 24, 39, 0.05);
+}
+.border_radius_5 {
+  border-radius: 5px;
+}
+.position_absolute {
+  position: absolute;
+  left: 30px;
+  bottom: 20px;
+}
+.btun_size {
+  padding-right: 7rem;
+  padding-left: 7rem;
+}
+.position_absolute_2 {
+  position: absolute;
+  left: 166px;
+  bottom: 20px;
+}
+.card_icon3 {
+  margin-top: -30px;
+  margin-left: 252px;
+}
+.card_icon4 {
+  margin-top: -62px;
+  margin-left: 270px;
+}
+.position_absolute_bg {
+  position: absolute;
+  left: 860px;
+}
+.card_margin_1 {
+  margin-top: 135px;
+}
+.card_margin_2 {
+  margin-top: 115px;
+}
+.card_margin_3 {
+  margin-left: -150px;
+}
+.card_margin_4 {
+  margin-top: 100px;
+  margin-left: -150px;
+}
+.card_icon2 {
+  margin-top: -44px;
+  margin-left: -45px;
+}
+.card_number {
+  margin-top: -55px;
+}
+.border_left {
+  border-left: 6px solid #f9995d;
+}
+.border_left_blue {
+  border-left: 6px solid #2947a9;
+  margin-right: 300px;
+}
+.card_shadow {
+  box-shadow: 0px 12px 16px -4px rgba(17, 24, 39, 0.1),
+    0px 4px 6px -2px rgba(17, 24, 39, 0.05);
+  border: 1px solid #ffffff;
+}
+.input_text {
+  width: 96%;
+}
+.msg_txt {
+  padding-bottom: 100px;
+}
+.bg_width {
+  width: 92%;
+}
+input[required] + label {
+  position: relative;
+  left: 10px; /* move the label left and place it inside the input */
+  bottom: 34px;
+  color: #a3aac2; /* placeholder color here */
+}
+input[required] + label:after {
+  content: "*";
+  color: red;
+}
+::placeholder {
+  color: #a3aac2;
+}
+@media only screen and (max-width: 1254px) {
+  .fs_30_m {
+    font-size: 30px;
+  }
+  .fs_14_m {
+    font-size: 14px;
+  }
+  .bg_width_color {
+    min-height: 90vh;
+  }
+  .position_absolute_bg {
+    position: absolute;
+    left: 660px;
+  }
+ }
+@media only screen and (min-width:768px) and (max-width:1200px){
+  .fs_55_m {
+    font-size: 55px;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .cards_none {
+    display: none;
+  }
+}
+@media only screen and (min-width: 996px) {
+  .bg_left {
+    margin-left: -200px;
+  }
+  .padding_btn {
+    padding-left: 90px;
+    padding-right: 90px;
+  }
+}
+@media only screen and (min-width: 766px) and (max-width: 996px) {
+  .btun_size {
+    padding-right: 4rem;
+    padding-left: 4rem;
+  }
+  .position_absolute {
+    position: absolute;
+    left: -19px;
+    bottom: 20px;
+  }
+  .position_absolute_2 {
+    position: absolute;
+    left: 65px;
+    bottom: 20px;
+  }
+  .fs_18_s {
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .position_absolute_2 {
+    position: absolute;
+    left: 115px;
+    bottom: 20px;
+  }
+}
+@media only screen and (max-width: 996px) {
+  .card_margin_3 {
+    margin-left: -70px;
+  }
+  .card_margin_4 {
+    margin-left: -70px;
+  }
+  .padding_btn {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .num_size {
+    font-size: 60px;
+  }
+  .fs_sm_45 {
+    font-size: 45px;
+  }
+  .card_margin_3 {
+    margin-left: -10px;
+  }
+  .card_margin_4 {
+    margin-left: -10px;
+  }
+  .fs_40_m {
+    font-size: 40px;
+  }
+  .btn_center {
+    margin-left: 100px;
+  }
+  .input_text {
+    width: 89%;
+  }
+  .f_14_s {
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width:410px) and (max-width:770px){
+  .img-size{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 1250px) {
+  .btn_margin {
+    margin-left: 120px;
+  }
+}
+@media only screen and (min-width: 525px) and (max-width: 776px) {
+  .input_text {
+    width: 93%;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .bg_width {
+    width: 100%;
+  }
+}
